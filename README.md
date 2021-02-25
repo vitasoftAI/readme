@@ -21,6 +21,7 @@ https://github.com/Secretmapper/react-image-annotation
 https://universaldatatool.github.io/react-image-annotate/#usage
 
 
-# Trained data, image 관련 구글 드라이브 링크
+# Trained data, image 관련 구글 드라이브 계정
 계정: aivitadata@gmail.com
-[`드라이브 링크`](https://drive.google.com/drive/u/1/folders/1S3vTHdgIi87i2GyRq5l1ZQ5PpoZOjaei)
+
+*무료계정 15GB를 임시로 사용합니다
