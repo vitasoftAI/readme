@@ -20,6 +20,10 @@ https://github.com/Secretmapper/react-image-annotation
 2.React Image Annotate
 https://universaldatatool.github.io/react-image-annotate/#usage
 
+# 프로젝트 관련 로드맵 관리
+
+https://gyupro.atlassian.net/
+
 
 # Trained data, image 관련 구글 드라이브 계정
 계정: aivitadata@gmail.com
