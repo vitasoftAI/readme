@@ -29,3 +29,10 @@ https://gyupro.atlassian.net/
 계정: aivitadata@gmail.com
 
 *무료계정 15GB를 임시로 사용합니다
+
+# FILE 공유 URL 만들기
+
+- docker desktop 설치
+- docker run -it --publish 8000:8000 -v //D/file_sharing:/home/data ubuntu
+- (PowerShell) docker run -it --publish 8000:8000 --mount type=bind,source="$(pwd)",target=/home/data ubuntu   
+- cd /home/data, python3 -m http.server
